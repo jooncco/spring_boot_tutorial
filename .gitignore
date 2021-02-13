@@ -1,3 +1,7 @@
+# mac OS
+.DS_store
+
+# maven
 target/
 pom.xml.tag
 pom.xml.releaseBackup
